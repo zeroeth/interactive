@@ -3,11 +3,15 @@ Interactive Media & Electronics
 
 * Computer Logins https://gist.github.com/zeroeth/b0884807679138ef086d
 
+Arduino Lessons
+---------------
+* Blink http://arduino.cc/en/Tutorial/Blink?from=Tutorial.BlinkingLED
+* Fade http://arduino.cc/en/Tutorial/Fade
+
 Arduino Samples
 ---------------
 * http://arduino.cc/en/Tutorial/HomePage
 * http://zeroeth.github.io/oculus_aethereum/
-
 
 Processing Samples
 ------------------
