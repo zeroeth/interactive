@@ -7,16 +7,20 @@ Arduino Lessons
 * Temperature https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor
 * neopixel https://github.com/adafruit/Adafruit_NeoPixel
 
+
 Arduino Samples
 ---------------
 * http://arduino.cc/en/Tutorial/HomePage
 * http://zeroeth.github.io/oculus_aethereum/
+
 
 Processing Samples
 ------------------
 * https://www.processing.org/examples/
 * http://processingjs.org/learning/
 * http://www.openprocessing.org/user/14746
+* web api (weather/color) https://gist.github.com/zeroeth/dc2f757d1a354a9eb884
+* serial+arduino https://gist.github.com/zeroeth/c5d9c19b2fbf47669e3a
 
 
 Inspiration,Resources
