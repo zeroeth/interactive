@@ -11,27 +11,35 @@ Arduino Lessons
 Arduino Samples
 ---------------
 * http://arduino.cc/en/Tutorial/HomePage
-* http://zeroeth.github.io/oculus_aethereum/
+* neopixel goggles http://zeroeth.github.io/oculus_aethereum/
 
 
 Processing Samples
 ------------------
 * https://www.processing.org/examples/
 * http://processingjs.org/learning/
-* http://www.openprocessing.org/user/14746
+* math examples http://www.openprocessing.org/user/14746
 * web api (weather/color) https://gist.github.com/zeroeth/dc2f757d1a354a9eb884
 * serial+arduino https://gist.github.com/zeroeth/c5d9c19b2fbf47669e3a
 
 
 Inspiration,Resources
----------------------
-* http://zeroeth.github.io/gfx/
+=====================
+
+* Lots of links http://zeroeth.github.io/gfx/
 * http://www.learningprocessing.com/
-* http://ejohn.org/blog/processingjs/
 * http://www.openprocessing.org/
-* http://publicapis.com/
-* http://makezine.com/category/arduino/
-* http://www.adafruit.com/blog/category/arduino
+* Data from the web http://publicapis.com/
+
+Sample Projects
+---------------
+* Sample projects http://makezine.com/category/arduino/
+* Sample projects http://www.adafruit.com/blog/category/arduino
+* Sample projects http://www.instructables.com/tag/type-id/category-technology/channel-arduino/
+
+Web graphic demos
+-----------------
 * http://codepen.io/
 * https://www.shadertoy.com/
 * http://glsl.heroku.com/
+* http://www.chromeexperiments.com/
