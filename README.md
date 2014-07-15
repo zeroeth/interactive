@@ -1,5 +1,9 @@
 * Computer Logins https://gist.github.com/zeroeth/b0884807679138ef086d
 
+Learn to Code
+-------------
+* https://www.khanacademy.org/computing/cs/programming
+
 Arduino Lessons
 ---------------
 * Blink http://arduino.cc/en/Tutorial/Blink?from=Tutorial.BlinkingLED
