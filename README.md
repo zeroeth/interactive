@@ -5,6 +5,7 @@ Arduino Lessons
 * Blink http://arduino.cc/en/Tutorial/Blink?from=Tutorial.BlinkingLED
 * Fade http://arduino.cc/en/Tutorial/Fade
 * Temperature https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor
+* neopixel https://github.com/adafruit/Adafruit_NeoPixel
 
 Arduino Samples
 ---------------
