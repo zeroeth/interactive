@@ -1,6 +1,3 @@
-Interactive Media & Electronics
-===============================
-
 * Computer Logins https://gist.github.com/zeroeth/b0884807679138ef086d
 
 Arduino Lessons
