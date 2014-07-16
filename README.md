@@ -20,6 +20,7 @@ Arduino Samples
 
 Processing Samples
 ------------------
+* magic circle https://gist.github.com/zeroeth/cb6191935155fbaf0ccc
 * https://www.processing.org/examples/
 * http://processingjs.org/learning/
 * math examples http://www.openprocessing.org/user/14746
